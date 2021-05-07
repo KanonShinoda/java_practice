@@ -2,7 +2,9 @@ package ecftech.constructor;
 
 public class Item {
 
+	// 名前
 	String name;
+	// 金額
 	int price;
 
 	public Item(String name, int price) {
